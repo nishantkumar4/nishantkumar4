@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nishantkumar4. I am a working professional and I have 6 years of experience in IT.
+- 👋 Hi, I’m Nishant Kumar. I am a working professional and I have 6 years of experience in IT.
 - 👀 I’m interested in Artificial Intelligence/Machine Learning
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on python programming
