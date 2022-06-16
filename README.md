@@ -9,3 +9,4 @@ nishantkumar4/nishantkumar4 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 <h1>💻 Tech Stack</h1>
+<img src="https://github.com/abranhe/programming-languages-logos/raw/master/src/javascript/javascript.svg">
